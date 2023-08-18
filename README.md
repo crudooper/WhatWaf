@@ -3,7 +3,7 @@
 [1]: https://twitter.com/unethicalsalt
 [1.1]: http://i.imgur.com/tXSoThF.png
 
-[6]: http://www.github.com/ekultek
+[6]: http://www.github.com/Ekultek
 [6.1]: http://i.imgur.com/0o48UoR.png
 
 # WhatWaf?
@@ -13,15 +13,8 @@ WhatWaf is an advanced firewall detection tool who's goal is to give you the ide
 #### _SIDE-NOTE: Any issue that is not the newest version of WhatWaf will be closed without discussion_
 
 # Helpful links
- - Supporting [whatwaf](https://github.com/Ekultek/WhatWaf/wiki/WhatWaf-and-XMR) with XMR mining
- - Create an [issue](https://github.com/Ekultek/WhatWaf/issues/new)
- - Read the [manual](https://github.com/Ekultek/WhatWaf/wiki/Functionality)
- - WhatWafs [Features](https://github.com/Ekultek/WhatWaf/blob/master/.github/README2.md#features)
- - [Installing](https://github.com/Ekultek/WhatWaf/blob/master/.github/README2.md#installation) WhatWaf
- - PoC
-   - [Demo video](https://github.com/Ekultek/WhatWaf/blob/master/.github/README2.md#demo-video)
-   - [Proof of Concept images](https://github.com/Ekultek/WhatWaf/blob/master/.github/README2.md#proof-of-concept)
- - [Get involved](https://github.com/Ekultek/WhatWaf/blob/master/.github/README2.md#get-involved)
+ - WhatWafs [Features](https://github.com/crudooper/WhatWaf/blob/master/.github/README2.md#features)
+ - [Installing](https://github.com/crudooper/WhatWaf/blob/master/.github/README2.md#installation) WhatWaf
  - Follow me on [![alt text][1.1]][1]
  - Follow me on [![alt text][6.1]][6]
  ---
