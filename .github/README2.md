@@ -34,10 +34,10 @@ This will install whatwaf into `~/.whatwaf/.install/bin` which will allow you to
 You can also install it manually by running the following:
 ```
 sudo -s << EOF
-git clone https://github.com/ekultek/whatwaf.git
+git clone https://github.com/crudooper/whatwaf.git
 cd whatwaf
 chmod +x whatwaf.py
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 ./whatwaf.py --help
 EOF
 ```
@@ -46,11 +46,11 @@ Or you can run whatwaf in a virtual environment by doing the following (requires
 ```bash
 sudo -s << EOF
 pip install virtualenv
-git clone https://github.com/ekultek/whatwaf.git
+git clone https://github.com/crudooper/whatwaf.git
 cd whatwaf
 chmod +x whatwaf.py
 virtualenv venv && source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 ./whatwaf.py --help
 EOF
 ```
