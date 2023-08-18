@@ -10,13 +10,11 @@
 
 WhatWaf is an advanced firewall detection tool who's goal is to give you the idea of "There's a WAF?". WhatWaf works by detecting a firewall on a web application, and attempting to detect a bypass (or two) for said firewall, on the specified target. 
 
-#### _SIDE-NOTE: Any issue that is not the newest version of WhatWaf will be closed without discussion_
+#### _SIDE-NOTE: Thanks to Ekultek which this repo is forked. I made a few personal additions.
 
 # Helpful links
  - WhatWafs [Features](https://github.com/crudooper/WhatWaf/blob/master/.github/README2.md#features)
  - [Installing](https://github.com/crudooper/WhatWaf/blob/master/.github/README2.md#installation) WhatWaf
- - Follow me on [![alt text][1.1]][1]
- - Follow me on [![alt text][6.1]][6]
  ---
 
 # Possible Detectable Firewalls
